@@ -1,0 +1,1 @@
+Based on Codeship's excellent [guide to python decorators](http://thecodeship.com/patterns/guide-to-python-function-decorators/)
