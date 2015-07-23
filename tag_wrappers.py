@@ -38,5 +38,3 @@ def dynamic_wrapper(tag, string):
 
   return raw_text(string)
 
-print dynamic_wrapper('strong', 'Example')
-
